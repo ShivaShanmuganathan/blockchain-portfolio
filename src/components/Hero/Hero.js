@@ -4,18 +4,22 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
+function openResumeNewTab(){
+  const url = 'https://drive.google.com/file/d/1I-sP-7wW2BHAp9MuzyJcfO4mtQfWDisY/view?usp=sharing';
+  window.open(url, '_blank');
+}
 const Hero = (props) => (
   <>
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Welcome To <br />
-          My Personal Portfolio
+          Shiva <br />
+          Shanmuganathan
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        New Graduate Learning & Building <br /> Full Stack Decentralized Applications
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={openResumeNewTab}>Download Resume</Button>
       </LeftSection>
     </Section>
   </>
