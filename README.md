@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site]()
+### [Live Site](https://shiva-blockchain-portfolio.netlify.app/)
 
-![Portfolio Website]()
+![Portfolio Website](https://shiva-blockchain-portfolio.netlify.app/)
 
