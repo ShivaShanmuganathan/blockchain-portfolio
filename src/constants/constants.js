@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Dockerized PyChain',
-    description: "Dockerized Blockchain built from scratch in Python to better understand how a blockchain works. I learnt how to verify & add a Txns to a Block, how Blocks are validated & verified before adding it to Blockchain. I also learnt how Mining, Proof of Work, Signing, Verification, and how a Miner is Rewarded",
+    description: "Dockerized Blockchain built from scratch in Python to better understand how a blockchain works. I learnt how to verify & add Txns to a Block, how Blocks are validated & verified before adding it to Blockchain. I also learnt how Mining, Proof of Work, Signing, Verification, and how a Miner is Rewarded",
       image: '/images/python_docker_blockchain.png',
       tags: ['Python', 'Docker'],
     source: 'https://github.com/ShivaShanmuganathan/PyChain',
