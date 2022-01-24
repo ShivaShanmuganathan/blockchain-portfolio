@@ -42,5 +42,5 @@ export const TimeLineData = [
   { year: 2018, text: 'Learned Data Science & Web Development', },  
   { year: 2019, text: 'Interned At AT&T and a Data Science Startup as a Data Science Intern', },
   { year: 2020, text: '1️⃣ Graduated Udacity Deep Learning Bootcamp \n 2️⃣Wrote a Research Paper on Image Dehazing with Dynamic UNets & Transfer Learning', },
-  { year: 2021, text: "Graduated College with CS Degree ⏩ Dived into Blockchain Development ⏩ Doing Consensys Blockchain Developer Bootcamp & Building Awesome Fullstack DAPPS", },
+  { year: 2021, text: "Graduated College with CS Degree ⏩ Dived into Blockchain Development ⏩ Completed Consensys Blockchain Developer Bootcamp & Started Building Awesome Fullstack DAPPS", },
 ];
