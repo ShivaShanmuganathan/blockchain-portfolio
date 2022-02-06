@@ -20,7 +20,7 @@ export const projects = [
   {
     title: "Dutch Auction Factory",
     description: "Using this Dutch Auction Contract, anyone can create an auction and sell their ERC20 tokens. The price of the listed item in the auction decreases linearly with time. Everyone except the auction owner can bid in the listed auction. In each auction, each user can only bid once.",
-    image: '/images/auction.png',
+    image: '/images/dutchAuction_2.gif',
     tags: ['Solidity', 'Hardhat', 'Ethers.js'],
     source: 'https://github.com/ShivaShanmuganathan/DutchAuction',
     visit: 'https://github.com/ShivaShanmuganathan/DutchAuction',
