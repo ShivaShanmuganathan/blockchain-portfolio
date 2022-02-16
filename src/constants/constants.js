@@ -9,22 +9,31 @@ export const projects = [
     id: 0,
   },
   {
+    title: "NFT Rental Marketplace",
+    description: "NFT Rental Marketplace allows users to lend and borrow NFTs in the marketpalce in a collateral-free way. Currently, there are no income generation methods for NFTs except for the potential speculative price increase over time. This project enables the owners to generate revenue off their otherwise stale asset through renting, and renters could rent the NFTs by paying only the rent [No Collateral]",
+      image: '/images/rentable_nft.png',
+      tags: ['Solidity', 'Hardhat', 'Open Zeppelin'],
+    source: 'https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace',
+    visit: 'https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace',
+    id: 1,
+  },
+  {
     title: "Yield Farm DeFi Dapp",
     description: "A Full Stack DeFi Staking Application that allows users to stake ERC20 tokens and receive rewards in Dapp(ERC20) Token!",
       image: '/images/defi_dapp.gif',
       tags: ['Solidity', 'Brownie', 'React', 'Material-UI'],
     source: 'https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm',
     visit: 'https://yieldfarm.netlify.app/',
-    id: 1,
+    id: 2,
   },
   {
-    title: "Dutch Auction ERC20 Factory",
+    title: "Dutch Auction ERC20 Marketplace",
     description: "Using this Dutch Auction Contract, anyone can create an auction and sell their ERC20 tokens. The price of the listed item in the auction decreases linearly with time. Everyone except the auction owner can bid in the listed auction. In each auction, each user can only bid once.",
     image: '/images/dutchAuction_2.gif',
     tags: ['Solidity', 'Hardhat', 'Ethers.js'],
     source: 'https://github.com/ShivaShanmuganathan/DutchAuction',
     visit: 'https://github.com/ShivaShanmuganathan/DutchAuction',
-    id: 2,
+    id: 3,
   },
   {
     title: "Aave Flashloan",
@@ -33,7 +42,7 @@ export const projects = [
       tags: ['Solidity', 'Brownie', 'Aave Protocol'],
     source: 'https://github.com/ShivaShanmuganathan/aave-flashloan',
     visit: 'https://github.com/ShivaShanmuganathan/aave-flashloan',
-    id: 3,
+    id: 4,
   },
   {
     title: 'WavePortal Simple Dapp',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['Solidity', 'Hardhat', 'Ethers.js', 'React'],
     source: 'https://github.com/ShivaShanmuganathan/wave-portal',
     visit: 'https://waveportal-baseline-student.shivashanmugana.repl.co/',
-    id: 4,
+    id: 5,
   },
   {
     title: 'Dockerized PyChain',
@@ -51,7 +60,7 @@ export const projects = [
       tags: ['Python', 'Docker'],
     source: 'https://github.com/ShivaShanmuganathan/PyChain',
     visit: 'https://github.com/ShivaShanmuganathan/PyChain',
-    id: 5,
+    id: 6,
   },
   {
     title: 'PyCryption',
@@ -60,7 +69,7 @@ export const projects = [
     tags: ['Python', 'Docker'],
     source: 'https://github.com/ShivaShanmuganathan/PyChain',
     visit: 'https://github.com/ShivaShanmuganathan/PyChain',
-    id: 6,
+    id: 7,
   },
 ];
 
@@ -69,5 +78,7 @@ export const TimeLineData = [
   { year: 2018, text: 'Learned Data Science & Web Development', },  
   { year: 2019, text: 'Interned At AT&T and a Data Science Startup as a Data Science Intern', },
   { year: 2020, text: '1️⃣ Graduated Udacity Deep Learning Bootcamp \n 2️⃣Wrote a Research Paper on Image Dehazing with Dynamic UNets & Transfer Learning', },
-  { year: 2021, text: "Graduated College with CS Degree ⏩ Dived into Blockchain Development ⏩ Completed Consensys Blockchain Developer Bootcamp & Started Building Awesome Fullstack DAPPS", },
+  { year: 2021, text: "1️⃣Graduated College with a CS Degree 🎓   \n 2️⃣ Took a Deep Dive into Blockchain Development 🔗₿🔗 \n 3️⃣ Completed Consensys Blockchain Developer Bootcamp", },
+  { year: 2022, text: "⚡Started Building Awesome Fullstack DAPPS 🔥", },
+  
 ];
