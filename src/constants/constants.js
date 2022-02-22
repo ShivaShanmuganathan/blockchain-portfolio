@@ -1,22 +1,24 @@
 export const projects = [
   {
-    title: "Dynamic NFT Minigame Fullstack Dapp",
-    description: " 🔥Full-Stack NFT Mini Game Dapp🔥 Users can choose Valorant Heroes and mint them as an NFT. User can use the minted Hero NFT to battle against Thanos. Battling against Thanos changes the HP (On-Chain Metadata) of Hero NFT",
-      image: '/images/select_char.gif',
-      tags: ['Solidity', 'Hardhat', 'Ethers.js', 'React'],
-    source: 'https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project',
-    visit: 'https://nftbattle.netlify.app/',
-    id: 0,
-  },
-  {
     title: "NFT Rental Marketplace On Polygon",
     description: "🔥Fullstack NFT Rental Marketplace🔥 NFT Owner can list their NFT for rent by specifying the name, description, rental duration, and rental price. Anyone can rent the NFT from the Rental Marketplace by paying the rental price [ No Collateral ] At end of rental duration, NFT is transferred from renter to NFT Owner. ",
       image: '/images/NFT_Rental_Marketplace.gif',
       tags: ['Solidity', 'Hardhat', 'Ethers.js', 'NextJS'],
     source: 'https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace',
     visit: 'https://nft-rental-marketplace.netlify.app/',
+    id: 0,
+  },
+
+  {
+    title: "Dynamic NFT Minigame Fullstack Dapp",
+    description: " 🔥Full-Stack NFT Mini Game Dapp🔥 Users can choose Valorant Heroes and mint them as an NFT. User can use the minted Hero NFT to battle against Thanos. Battling against Thanos changes the HP (On-Chain Metadata) of Hero NFT",
+      image: '/images/select_char.gif',
+      tags: ['Solidity', 'Hardhat', 'Ethers.js', 'React'],
+    source: 'https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project',
+    visit: 'https://nftbattle.netlify.app/',
     id: 1,
   },
+  
   {
     title: "Yield Farm DeFi Dapp",
     description: "🔥Full Stack DeFi Yield Farming Dapp🔥 Users can stake allowed ERC20 Tokens in the Dapp. Current market value of the staked asset is fetched using  Chainlink’s Decentralized Price Feeds. Staked users receive token rewards that are proportional to the amount of funds they have staked on the platform.",
