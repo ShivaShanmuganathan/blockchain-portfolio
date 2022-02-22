@@ -1,7 +1,7 @@
 export const projects = [
   {
-    title: "NFT Metadata Minigame Fullstack Dapp",
-    description: "A full-stack Dapp NFT Based Mini Game in which users can choose Heroes and mint them as an NFT. User can use the minted NFT to battle against Thanos, and NFT Metadata changes as a result",
+    title: "Dynamic NFT Minigame Fullstack Dapp",
+    description: " 🔥Full-Stack NFT Mini Game Dapp🔥 Users can choose Valorant Heroes and mint them as an NFT. User can use the minted Hero NFT to battle against Thanos. Battling against Thanos changes the HP (On-Chain Metadata) of Hero NFT",
       image: '/images/select_char.gif',
       tags: ['Solidity', 'Hardhat', 'Ethers.js', 'React'],
     source: 'https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: "NFT Rental Marketplace On Polygon",
-    description: "NFT Owner can list their NFT for rent by specifying the name, description, rental duration, and rental price. Anyone can rent the NFT from the Rental Marketplace by paying the rental price [ No Collateral ] At end of rental duration, NFT is transferred from renter to NFT Owner. ",
+    description: "🔥Fullstack NFT Rental Marketplace🔥 NFT Owner can list their NFT for rent by specifying the name, description, rental duration, and rental price. Anyone can rent the NFT from the Rental Marketplace by paying the rental price [ No Collateral ] At end of rental duration, NFT is transferred from renter to NFT Owner. ",
       image: '/images/NFT_Rental_Marketplace.gif',
       tags: ['Solidity', 'Hardhat', 'Ethers.js', 'NextJS'],
     source: 'https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: "Yield Farm DeFi Dapp",
-    description: "A Full Stack DeFi Staking Application that allows users to stake ERC20 tokens and receive rewards in Dapp(ERC20) Token!",
+    description: "🔥Full Stack DeFi Yield Farming Dapp🔥 Users can stake allowed ERC20 Tokens in the Dapp. Current market value of the staked asset is fetched using  Chainlink’s Decentralized Price Feeds. Staked users receive token rewards that are proportional to the amount of funds they have staked on the platform.",
       image: '/images/defi_dapp.gif',
       tags: ['Solidity', 'Brownie', 'React', 'Material-UI'],
     source: 'https://github.com/ShivaShanmuganathan/defi-dapp-yield-farm',
