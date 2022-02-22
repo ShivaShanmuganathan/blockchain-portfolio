@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: "NFT Rental Marketplace",
-    description: "NFT Rental Marketplace allows users to lend and borrow NFTs in the marketpalce in a collateral-free way. Currently, there are no income generation methods for NFTs except for the potential speculative price increase over time. This project enables the owners to generate revenue off their otherwise stale asset through renting, and renters could rent the NFTs by paying only the rent [No Collateral]",
-      image: '/images/rentable_nft.png',
-      tags: ['Solidity', 'Hardhat', 'Open Zeppelin'],
+    title: "NFT Rental Marketplace On Polygon",
+    description: "NFT Owners can rent their NFT by specifying the name, description, rental duration, and rental price. \n Anyone can rent the NFT from the Rental Marketplace by paying the rental price. \n The Renter will not be able to transfer the rented NFT to anyone. \n ",
+      image: '/images/NFT_Rental_Marketplace.gif',
+      tags: ['Solidity', 'Hardhat', 'Ethers.js', 'NextJS'],
     source: 'https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace',
-    visit: 'https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace',
+    visit: 'https://nft-rental-marketplace.netlify.app/',
     id: 1,
   },
   {
