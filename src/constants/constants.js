@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "NFT Rental Marketplace On Polygon",
-    description: "🔥Fullstack NFT Rental Marketplace🔥 NFT Owner can list their NFT for rent by specifying the name, description, rental duration, and rental price. Anyone can rent the NFT from the Rental Marketplace by paying the rental price [ No Collateral ] At end of rental duration, NFT is transferred from renter to NFT Owner. ",
+    description: "🔥Full Stack NFT Rental Marketplace🔥 NFT Owner can list their NFT for rent by specifying the name, description, rental duration, and rental price. Anyone can rent the NFT from the Rental Marketplace by paying the rental price [ No Collateral ] At end of rental duration, NFT is transferred from renter to NFT Owner. ",
       image: '/images/NFT_Rental_Marketplace.gif',
       tags: ['Solidity', 'Hardhat', 'Ethers.js', 'NextJS'],
     source: 'https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace',
@@ -10,8 +10,8 @@ export const projects = [
   },
 
   {
-    title: "Dynamic NFT Minigame Fullstack Dapp",
-    description: " 🔥Full-Stack NFT Mini Game Dapp🔥 Users can choose Valorant Heroes and mint them as an NFT. User can use the minted Hero NFT to battle against Thanos. Battling against Thanos changes the HP (On-Chain Metadata) of Hero NFT",
+    title: "Dynamic NFT Minigame Full Stack Dapp",
+    description: " 🔥Full Stack NFT Mini Game Dapp🔥 Users can choose Valorant Heroes and mint them as an NFT. User can use the minted Hero NFT to battle against Thanos. Battling against Thanos changes the HP (On-Chain Metadata) of Hero NFT",
       image: '/images/select_char.gif',
       tags: ['Solidity', 'Hardhat', 'Ethers.js', 'React'],
     source: 'https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project',
