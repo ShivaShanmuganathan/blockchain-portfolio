@@ -92,12 +92,55 @@ export const ExternalLinks = styled.a`
 color:#d4c0c0;
 font-size: 1.6rem;
 padding:1rem 1.5rem;
-background: #6b3030;
+background-size: 200% 200%;
+background-image: linear-gradient(270deg, #13ADC7 0%, #945DD6 100%);  
+// 'linear-gradient(270deg, #F46737 0%, #945DD6 100%)' :
+// 'linear-gradient(270deg, #13ADC7 0%, #945DD6 100%)'
+animation: gradient-animation 4s ease infinite;
 border-radius: 15px;
-transition: 0.5s;
-&:hover{
-  background: #801414;
+font-weight: bold;
 
+color: white;
+
+&:hover{
+  opacity: 1;
+  // color: black;
+  box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+}
+
+/* KeyFrames */
+@-webkit-keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-moz-keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 `;
 

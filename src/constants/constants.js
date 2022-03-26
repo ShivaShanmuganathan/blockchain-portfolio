@@ -102,11 +102,11 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey in Computer Science', },
-  { year: 2018, text: 'Learned Data Science & Web Development', },  
-  { year: 2019, text: 'Interned At AT&T and a Data Science Startup as a Data Science Intern', },
-  { year: 2020, text: '1️⃣ Graduated Udacity Deep Learning Bootcamp \n 2️⃣Wrote a Research Paper on Image Dehazing with Dynamic UNets & Transfer Learning', },
-  { year: 2021, text: "1️⃣Graduated College with a CS Degree 🎓   \n 2️⃣ Took a Deep Dive into Blockchain Development 🔗₿🔗 \n 3️⃣ Completed Consensys Blockchain Developer Bootcamp", },
-  { year: 2022, text: "⚡Started Building Awesome Fullstack DAPPS 🔥", },
+  { year: 2017, text: 'Started my journey in Computer Science 👨🏾‍💻', },
+  { year: 2018, text: 'Started Learning 🏫 Data Science 👩🏾‍🔬 & Web Development 🕸', },  
+  { year: 2019, text: 'Interned At AT&T and a Data Science Startup as a Data Science Intern 🎯', },
+  { year: 2020, text: '1️⃣ Graduated Udacity Deep Learning Bootcamp 🌟🐱‍🏍 \n 2️⃣Wrote a Research Paper on Image Dehazing with Dynamic UNets & Transfer Learning 📃', },
+  { year: 2021, text: "1️⃣Graduated College with a CS Degree 🎓   \n 2️⃣ Took a Deep Dive into Blockchain Development 🔗₿🔗 \n 3️⃣🌟🎯 Completed Consensys Blockchain Developer Bootcamp", },
+  { year: 2022, text: "🌟🎯 Completed Encode's Expert Solidity Bootcamp ⏩⚡Started Building Awesome Full Stack DAPPS 🔥 \n 🚀Working as a Freelance Smart Contract Developer🌕" , },
   
 ];
