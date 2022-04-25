@@ -1,23 +1,25 @@
 export const projects = [
   {
+    title: "Dynamic NFT Game🎮 Diamond Standard💎",
+    description: " 🔥Full Stack NFT Mini Game Dapp🔥 Players can choose Valorant Heroes and mint them as a NFT. Use the minted NFT to battle against Thanos in the dapp. Battling against Thanos changes the HP (On-Chain Metadata) of Hero NFT. Players can heal their heroes by staking their Hero NFT in the dapp. Staking NFTs increases the HP (On-Chain Metadata) of Hero NFT.",
+      image: '/images/Demo.gif',
+      tags: ['Solidity', 'Hardhat', 'Ethers.js', 'React'],
+    source: 'https://github.com/ShivaShanmuganathan/Diamond-NFT-Mini-Game',
+    visit: 'https://diamond-dapp.vercel.app/',
+    id: 0,
+  },
+
+  {
     title: "NFT Rental Marketplace On Polygon",
     description: "🔥Full Stack NFT Rental Marketplace🔥 NFT Owner can list their NFT for rent by specifying the name, description, rental duration, and rental price. Anyone can rent the NFT from the Rental Marketplace by paying the rental price [ No Collateral ] At end of rental duration, NFT is transferred from renter to NFT Owner. ",
       image: '/images/NFT_Rental_Marketplace.gif',
       tags: ['Solidity', 'Hardhat', 'Ethers.js', 'Next.js'],
     source: 'https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace',
     visit: 'https://nft-rental-marketplace.netlify.app/',
-    id: 0,
-  },
-
-  {
-    title: "Dynamic NFT Minigame Full Stack Dapp",
-    description: " 🔥Full Stack NFT Mini Game Dapp🔥 Users can choose Valorant Heroes and mint them as an NFT. User can use the minted Hero NFT to battle against Thanos. Battling against Thanos changes the HP (On-Chain Metadata) of Hero NFT",
-      image: '/images/select_char.gif',
-      tags: ['Solidity', 'Hardhat', 'Ethers.js', 'React'],
-    source: 'https://github.com/ShivaShanmuganathan/blockchain-developer-bootcamp-final-project',
-    visit: 'https://nftbattle.netlify.app/',
     id: 1,
   },
+
+
   
   {
     title: "Yield Farm DeFi Dapp",
