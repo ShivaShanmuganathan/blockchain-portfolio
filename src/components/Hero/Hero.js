@@ -5,7 +5,7 @@ import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
 function openResumeNewTab(){
-  const url = 'https://drive.google.com/file/d/1qRM9fnrOn5wP-qY_ktK1yebi32iRAMEQ/view?usp=sharing';
+  const url = 'https://drive.google.com/file/d/1ZkCRhh8TecHg01Ccqx2AHEz7-0GhWZsY/view?usp=sharing';
   window.open(url, '_blank');
 }
 const Hero = (props) => (
