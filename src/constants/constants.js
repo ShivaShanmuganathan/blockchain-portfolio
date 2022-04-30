@@ -96,8 +96,8 @@ export const projects = [
     description: "A Dockerized Python application that allows users to sign, encrypt, verify and decrypt files.",
     image: '/images/docker_python.png',
     tags: ['Python', 'Docker'],
-    source: 'https://github.com/ShivaShanmuganathan/PyChain',
-    visit: 'https://github.com/ShivaShanmuganathan/PyChain',
+    source: 'https://github.com/ShivaShanmuganathan/PyCryption',
+    visit: 'https://github.com/ShivaShanmuganathan/PyCryption',
     id: 9,
   },
 
