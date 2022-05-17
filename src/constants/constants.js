@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Dynamic NFT Game🎮 Diamond Standard💎",
-    description: " 🔥Full Stack NFT Mini Game Dapp🔥 Players can choose Valorant Heroes and mint them as a NFT. Use the minted NFT to battle against Thanos in the dapp. Battling against Thanos changes the HP (On-Chain Metadata) of Hero NFT. Players can heal their heroes by staking their Hero NFT in the dapp. Staking NFTs increases the HP (On-Chain Metadata) of Hero NFT.",
+    description: " 🔥Full Stack NFT Mini Game Dapp🔥 Players can choose & mint Valorant Heroes as an NFT. Hero NFT can be used to battle against Thanos, decreasing the HP (On-Chain Metadata) of Hero NFT. Heroes can be healed by staking them in the dapp, which increases the HP (On-Chain Metadata) of Hero NFT. Players can lend and rent Hero NFTs using the Collateral-Free NFT Rental Marketplace",
       image: '/images/Diamond.gif',
       tags: ['Solidity', 'Hardhat', 'Ethers.js', 'React'],
     source: 'https://github.com/ShivaShanmuganathan/Diamond-NFT-Mini-Game',
