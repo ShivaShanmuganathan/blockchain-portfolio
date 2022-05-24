@@ -10,8 +10,8 @@ export const projects = [
   },
 
   {
-    title: "NFT Rental Marketplace On Polygon",
-    description: "🔥Full Stack NFT Rental Marketplace🔥 NFT Owner can list their NFT for rent by specifying the name, description, rental duration, and rental price. Anyone can rent the NFT from the Rental Marketplace by paying the rental price [ No Collateral ] At end of rental duration, NFT is transferred from renter to NFT Owner. ",
+    title: "NFT Rental Marketplace 🏪 On Polygon",
+    description: "🔥Full Stack NFT Rental Marketplace🔥 NFT Owner can list their NFT for rent by specifying the name, description, rental duration, and rental price. Anyone can rent the NFT from the Rental Marketplace by paying the rental price [ No Collateral ]. During the rental duration, Renter will not be able to transfer the rented NFT to anyone. Upon expiry of rental duration, NFT is transferred from renter to NFT Owner.",
       image: '/images/NFT_Rental_Marketplace.gif',
       tags: ['Solidity', 'Hardhat', 'Ethers.js', 'Next.js'],
     source: 'https://github.com/ShivaShanmuganathan/NFT-Rental-Marketplace',
