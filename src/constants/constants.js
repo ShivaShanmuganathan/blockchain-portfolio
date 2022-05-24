@@ -22,7 +22,7 @@ export const projects = [
 
   
   {
-    title: "Yield Farm DeFi Dapp",
+    title: "🌾Yield Farm DeFi Dapp",
     description: "🔥Full Stack DeFi Yield Farming Dapp🔥 Users can stake allowed ERC20 Tokens in the Dapp. Current market value of the staked asset is fetched using  Chainlink’s Decentralized Price Feeds. Staked users receive token rewards that are proportional to the amount of funds they have staked on the platform.",
       image: '/images/defi_dapp.gif',
       tags: ['Solidity', 'Brownie', 'React', 'Material-UI'],
@@ -32,7 +32,7 @@ export const projects = [
   },
 
   {
-    title: "Full Stack DAO Dapp EIP-1167: Minimal Proxy ",
+    title: "🔮DAO Dapp Using🧭 EIP-1167: Minimal Proxy ",
     description: "🔥Full Stack DAO Dapp with EIP-1167🔥 DAO members can create a proposal to purchase NFT from NFT-marketplace. 10 minutes is the voting period for each proposal. DAO Members can vote on the proposal. After voting period, proposal can be executed ⏩ NFT is purchased from the NFT Marketplace using ETH in the proposal contract.",
       image: '/images/DAO_dapp.gif',
       tags: ['Solidity', 'Hardhat', 'Ethers.js', 'Next.js'],
@@ -42,7 +42,7 @@ export const projects = [
   },
 
   {
-    title: "Dutch Auction ERC20 Marketplace",
+    title: " 💸 Dutch Auction 🤑ERC20 Marketplace",
     description: "Using this Dutch Auction Contract, anyone can create an auction and sell their ERC20 tokens. The price of the listed item in the auction decreases linearly with time. Everyone except the auction owner can bid in the listed auction. In each auction, each user can only bid once.",
     image: '/images/dutchAuction_2.gif',
     tags: ['Solidity', 'Hardhat', 'Ethers.js'],
@@ -52,7 +52,7 @@ export const projects = [
   },
 
   {
-    title: "NFT Ticketing System",
+    title: "NFT🎫Ticketing System",
     description: "🔥Full Stack NFT Ticketing System🔥 Full Stack NFT Ticketing System & proof-of-attendance system with wallet QR code scanning. Anyone can mint NFT from this dapp by paying the mint price. Admin can check-in users in this dapp using their NFT Tickets, and it is saved in the contract.",
     image: '/images/nft_ticketing.JPG',
     tags: ['Solidity', 'Hardhat', 'Ethers.js', 'React'],
@@ -62,7 +62,7 @@ export const projects = [
   },
   
   {
-    title: "Aave Flashloan",
+    title: "🏦 Aave Flashloan 💸",
     description: "A simple contract implementing Aave V2 Flash Loans. Ethereum Mainnet is forked, and tests are performed by making use of Brownie.",
       image: '/images/flashloan.gif',
       tags: ['Solidity', 'Brownie', 'Aave Protocol'],
@@ -72,7 +72,7 @@ export const projects = [
   },
   
   {
-    title: 'WavePortal Simple Dapp',
+    title: '🛸WavePortal Dapp👽',
     description:"A simple dapp that receives messages from users, stores it in the SmartContract, and displays it to the User.",
     image: '/images/waves.gif',
     tags: ['Solidity', 'Hardhat', 'Ethers.js', 'React'],
@@ -82,7 +82,7 @@ export const projects = [
   },
   
   {
-    title: 'Dockerized PyChain',
+    title: '🚢Dockerized PyChain🔗',
     description: "Dockerized Blockchain built from scratch in Python to better understand how a blockchain works. I learnt how to verify & add Txns to a Block, how Blocks are validated & verified before adding it to Blockchain. I also learnt how Mining, Proof of Work, Signing, Verification, and how a Miner is Rewarded",
       image: '/images/python_docker_blockchain.png',
       tags: ['Python', 'Docker'],
@@ -92,7 +92,7 @@ export const projects = [
   },
   
   {
-    title: 'PyCryption',
+    title: '🐍PyCryption🔐',
     description: "A Dockerized Python application that allows users to sign, encrypt, verify and decrypt files.",
     image: '/images/docker_python.png',
     tags: ['Python', 'Docker'],
