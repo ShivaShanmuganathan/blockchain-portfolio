@@ -44,7 +44,7 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About Me</SectionTitle>
+      <SectionTitle>😄About Me🎯</SectionTitle>
       <SectionText>
       I Am Currently Working As Freelance Smart Contract Developer & Building FullStack Dapps. 
       I am looking for a full-time remote job opportunity to work as a FullStack Dapp Developer.

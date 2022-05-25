@@ -7,10 +7,10 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
-    <SectionTitle>Awesome Technology</SectionTitle>
+    <SectionTitle>🔥Awesome Technology🌟</SectionTitle>
     <SectionText>
       I've worked with a range of technologies in the web development world.
-      From Back-end To Design
+      From Backend To Design.
     </SectionText>
     <List>
       <ListItem>
@@ -18,7 +18,7 @@ const Technologies = () =>  (
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Frontend</ListTitle>
           <ListParagraph>
             Experience with <br />
             React.js & Next.js
@@ -27,11 +27,10 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          {/* <DiFirebase size="3rem" /> */}
           <SiSolidity size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Backend</ListTitle>
           <ListParagraph>
             Experience with <br />
             Solidity & Hardhat
