@@ -17,7 +17,7 @@ const Hero = (props) => (
           Shanmuganathan
         </SectionTitle>
         <SectionText>
-        New Graduate Learning & Building <br /> Full Stack Decentralized Applications
+        🎓 New Graduate Learning & Building <br /> Full Stack Decentralized Applications
         </SectionText>
         <Button onClick={openResumeNewTab}>Download Resume</Button>
       </LeftSection>
