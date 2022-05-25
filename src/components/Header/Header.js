@@ -2,7 +2,7 @@ import Link from 'next/link';
 import React from 'react';
 import Head from "next/head"
 import { AiFillGithub, AiFillTwitterCircle, AiFillLinkedin } from 'react-icons/ai';
-import { DiCssdeck } from 'react-icons/di';
+import { SiEthereum } from 'react-icons/si';
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
 
 const Header = () =>  (
@@ -17,7 +17,7 @@ const Header = () =>  (
     <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
-          <DiCssdeck size="3rem" /> <span>Portfolio</span>
+          <SiEthereum size="3rem" /> <span>PORTFOLIO</span>
         </a>
       </Link>
     </Div1>
