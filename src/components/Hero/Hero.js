@@ -5,7 +5,7 @@ import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
 function openResumeNewTab(){
-  const url = 'https://1drv.ms/b/s!AiNNOTI2SsM6mEGCtW0pTBHFcdJe?e=sAlAh2';
+  const url = 'https://1drv.ms/b/c/3ac34a3632394d23/EekB_cdT5rJGo5QmgeHRItABkJkpwXwn3NoG950K9bUdzA?e=638Go0';
   window.open(url, '_blank');
 }
 const Hero = (props) => (
@@ -17,7 +17,11 @@ const Hero = (props) => (
           Shanmuganathan
         </SectionTitle>
         <SectionText>
-        🎓 New Graduate Learning & Building <br /> Full Stack Decentralized Applications
+        Seasoned Solidity Developer <br /> 
+        Building Full Stack Decentralized Applications <br />
+        </SectionText>
+        <SectionText>
+        💼 Currently Working At Laguna Games
         </SectionText>
         <Button onClick={openResumeNewTab}>Download Resume</Button>
       </LeftSection>

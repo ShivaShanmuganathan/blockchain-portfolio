@@ -110,5 +110,7 @@ export const TimeLineData = [
   { year: 2020, text: '1️⃣ Graduated Udacity Deep Learning Bootcamp 🌟🐱‍🏍 \n 2️⃣Wrote a Research Paper on Image Dehazing with Dynamic UNets & Transfer Learning 📃', },
   { year: 2021, text: "1️⃣Graduated College with a CS Degree 🎓   \n 2️⃣ Took a Deep Dive into Blockchain Development 🔗₿🔗 \n 3️⃣🌟🎯 Completed Consensys Blockchain Developer Bootcamp", },
   { year: 2022, text: "🌟🎯 Completed Encode's Expert Solidity Bootcamp ⏩⚡Started Building Awesome Full Stack DAPPS 🔥 \n 🚀Working as a Freelance Smart Contract Developer🌕" , },
+  // { year: 2023, text: "🌟🎯 Completed Encode's Expert Solidity Bootcamp ⏩⚡Started Building Awesome Full Stack DAPPS 🔥 \n 🚀Working as a Freelance Smart Contract Developer🌕" , },
+  // { year: 2024, text: "🌟🎯 Completed Encode's Expert Solidity Bootcamp ⏩⚡Started Building Awesome Full Stack DAPPS 🔥 \n 🚀Working as a Freelance Smart Contract Developer🌕" , },
   
 ];

@@ -7,9 +7,9 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
-    <SectionTitle>🔥Awesome Technology🌟</SectionTitle>
+    <SectionTitle main center>🔮 Awesome Technology</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in the web development world.
+      I've worked with a range of technologies in the web3 world. <br />
       From Backend To Design.
     </SectionText>
     <List>
@@ -33,7 +33,7 @@ const Technologies = () =>  (
           <ListTitle>Backend</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Solidity & Hardhat
+            Foundry, Brownie, & Hardhat
           </ListParagraph>
         </ListContainer>
       </ListItem>
